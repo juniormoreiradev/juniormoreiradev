@@ -1,4 +1,4 @@
-## Hi, I'm a junior and I study software engineering
+## Hi, I'm a Sergio and I study software engineering
 
 <div align="center">
   <a href="https://github.com/juniormoreiradev">
